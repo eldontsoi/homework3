@@ -1,0 +1,13 @@
+/*put css image in folder
+this is the link to the images folder
+
+
+url("../imagese/pidgeon-background.jpg"*/
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    length: 2em;
+}
